@@ -1,8 +1,12 @@
-# Coin Tracker
+# ReactTodo
 
-- 가상화폐 API를 이용하여 데이터를 보여주는 웹사이트
+- React를 활용하여 만든 todolist 사이트
 
 [WEB URL](https://yurim-hgr.github.io/reactTodo)
+
+### 프로젝트 화면
+
+![image](https://user-images.githubusercontent.com/51738855/173884137-9eb09aad-ec59-47d3-ada6-497379652447.png)
 
 ### using
 
