@@ -55,7 +55,7 @@ const PlusButton = styled.button`
 const Header = styled.div`
   display: flex;
   justify-content: space-between;
-  padding: 15px;
+  padding: 14px;
 `;
 
 const Select = styled.select`
